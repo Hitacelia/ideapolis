@@ -291,7 +291,11 @@ https://www.infocop.es/recomendaciones-de-mhe-para-conseguir-comunidades-mentalm
 Canva: Para el diseño de contenido visual
 Trello: Para la gestión de proyectos y seguimiento del progreso de las tareas
 Microsoft Teams: Para la comunicación interna del equipo
-Wix: Para la creación rápida de sitios web con capacidades extendidas mediante plugins
+Wix: Para la creación rápida de sitios web con capacidades extendidas mediante plugins: https://eevr98.wixsite.com/sin-tapujos
+Vev: Utilizado como portafolio de nuestro proyecto: https://a-sintapujos.vev.site/stpj
+Medium: Utilizada para la guía del caso de estudio del proyecto: https://medium.com/@e.evr98/nuestra-historia-cc1a3c267bcc
+
+
 
 
 * Propuestas de mejora
