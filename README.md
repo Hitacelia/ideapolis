@@ -340,16 +340,28 @@ GoogleGemini: https://gemini.google.com/?hl=es-ES
   
 
 
-* (Artículos ..  ) Através de OCW, hemos buscado varios cursos que nos son de gran ayuda para enfocar y seguir creciendo con nuestro proyecto y son los siguientes:
+* (Artículos ..  ) Através de OCW y Udemy, hemos buscado varios cursos que nos son de gran ayuda para enfocar y seguir creciendo con nuestro proyecto y son los siguientes:
+
+* Conocimiento psicosocial:
+  
   -https://ocw.unican.es/course/view.php?id=24
+  
   -https://ocw.unican.es/course/view.php?id=25
+  
   -https://ocw.unican.es/course/view.php?id=26
+  
   -https://ocw.unican.es/course/view.php?id=18
+
+  Inteligencia emocional:
+  
   -https://www.udemy.com/course/curso-inteligencia-emocional/
+
+  Lenguaje no verbal, habilidades sociales:
+  
   -https://www.udemy.com/course/aprende-lenguaje-corporal-para-mejorar-tu-comunicacion/
   
 * (Productos utilizados ) Canva, Trello, Microsoft Teams, Wix, Excel
-* (Recursos tipo Imágenes, videos , etc.) Todas las imagenes han sido generadas con inteligancia artificial y canva
+* (Recursos tipo Imágenes, videos , etc.) Todas las imagenes han sido generadas con inteligancia artificial (BingCopilot y GoogleGemini) y canva
 
 
 
