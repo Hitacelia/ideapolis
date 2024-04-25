@@ -43,9 +43,18 @@ Utilizamos la licencia CCBY, ya que permite a otros compartir y adaptar nuestro 
 
 
 * Tiktok
+  
 * Instagram
+  
 * YouTube
+  
 * Página web
+
+* Wix: Para la creación rápida de sitios web con capacidades extendidas mediante plugins: https://eevr98.wixsite.com/sin-tapujos
+
+* Vev: Utilizado como portafolio de nuestro proyecto: https://a-sintapujos.vev.site/stpj
+
+* Medium: Utilizada para la guía del caso de estudio del proyecto: https://medium.com/@e.evr98/nuestra-historia-cc1a3c267bcc
 
 ----
 
@@ -82,13 +91,13 @@ Definición de la Idea de Negocio: Utilizando nuestras fortalezas, decidimos  cr
 
 ### Etapa 1: Ideación de proyecto 
 
-La ideación del proyecto la hicimos mediante la aplicación Trello, herramienta de gestión de proyectos basada en el sistema Kanban, que utiliza tarjetas y tableros para organizar tareas y actividades en equipo.
+La ideación del proyecto la hicimos mediante la aplicación **Trello**, herramienta de gestión de proyectos basada en el sistema Kanban, que utiliza tarjetas y tableros para organizar tareas y actividades en equipo.
 En la que fuimos desarrollando una lluvia de ideas de proyectos en los que queríamos inspirarnos.
 
 
 ![logo](trello.PNG)
 
-Y seguimos con la lluvia de ideas en la aplicación Milanote, que es en la que más hemos trabajado y donde hemos ido todas las ideas para nuestro proyecto, como slogan, paleta de colores, logo, palabras clave, actividades que queremos realizar, videos de ayuda, retos que hacer, como puede verse en la siguiente imagen.
+Y seguimos con la lluvia de ideas en la aplicación **Milanote**, que es en la que más hemos trabajado y donde hemos ido todas las ideas para nuestro proyecto, como slogan, paleta de colores, logo, palabras clave, actividades que queremos realizar, videos de ayuda, retos que hacer, como puede verse en la siguiente imagen.
 
 
 
@@ -288,12 +297,14 @@ https://www.comunidad.madrid/servicios/salud/bienestar-emocional-salud
 https://www.infocop.es/recomendaciones-de-mhe-para-conseguir-comunidades-mentalmente-saludables/
 
 * Productos utilizados
+  
 Canva: Para el diseño de contenido visual
+
 Trello: Para la gestión de proyectos y seguimiento del progreso de las tareas
+
 Microsoft Teams: Para la comunicación interna del equipo
-Wix: Para la creación rápida de sitios web con capacidades extendidas mediante plugins: https://eevr98.wixsite.com/sin-tapujos
-Vev: Utilizado como portafolio de nuestro proyecto: https://a-sintapujos.vev.site/stpj
-Medium: Utilizada para la guía del caso de estudio del proyecto: https://medium.com/@e.evr98/nuestra-historia-cc1a3c267bcc
+
+
 
 
 
