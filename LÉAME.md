@@ -234,8 +234,38 @@ Preguntas relacionadas con la experiecia del usuarios en la plataforma y nuestro
 
 
 * Grado de consecución del proyecto
+
+  El éxito de nuestro proyecto se podrá evaluar en función de diversos indicadores clave. En primer lugar, la participación de la audiencia será fundamental, manifestada a través del número de descargas, suscripciones y la interacción en redes sociales. Además, las reseñas y comentarios que recibamos reflejarán cómo se ha recibido nuestro contenido y la satisfacción de nuestra comunidad.
+
+Un aspecto clave del éxito será el impacto positivo que podamos generar en el bienestar emocional y mental de nuestra audiencia. Este efecto se podrá medir por la calidad y cantidad de testimonios de los oyentes sobre cómo los episodios han influido en sus vidas, así como por el cambio en el nivel de conciencia sobre temas de salud mental y emocional.
+
+También será importante haber cumplido los objetivos iniciales planteados, tales como aumentar la concienciación sobre el bienestar social y emocional, brindar herramientas prácticas a los oyentes, y crear una comunidad comprometida. Además, el reconocimiento de la industria, como premios o menciones, será un indicador adicional de nuestro éxito.
   
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… )
+
+  **Problemas técnicos**
+
+  Distribución: El primer problema que nos surgio era desde que plataforma de distribución iban a ser las más adecuadas para los podcast y la interacción.
+
+**Problemas sobre la idea inicial**
+
+Definición de la audiencia: En un principio la definición de la audiencia no estaba lo suficientemente clara.
+
+Competencia: La idea que teníamos principalmente contaba con bastante competencia.
+
+Nombre del proyecto: Algunos nombres ya estaban escogidos por otras empresas.
+
+**Problemas de planificación**
+
+Interacción con la audiencia: No se tenía completamente claro como se iba a interactuar con la audiencia a través de un podcast.
+
+**Problemas de adaptabilidad**
+
+Retroalimentación de la audiencia: Como conseguir la capacidad de escuchar y responder a la retroalimentación de la audiencia para mantener el ínteres del oyente.
+
+**Obstáculos adicionales**
+
+Generalidad de la conciencia sobre salud mental: La amplitud del tema puede resultar en un alcance limitado, lo que podría requerir un reenfoque del proyecto o una mayor definición de los temas. La evaluación precisa de la temática depende del feedback de la comunidad.
   
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
   
