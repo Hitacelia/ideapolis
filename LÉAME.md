@@ -235,7 +235,7 @@ Preguntas relacionadas con la experiecia del usuarios en la plataforma y nuestro
 
 * Grado de consecución del proyecto
 
-  El éxito de nuestro proyecto se podrá evaluar en función de diversos indicadores clave. En primer lugar, la participación de la audiencia será fundamental, manifestada a través del número de descargas, suscripciones y la interacción en redes sociales. Además, las reseñas y comentarios que recibamos reflejarán cómo se ha recibido nuestro contenido y la satisfacción de nuestra comunidad.
+El éxito de nuestro proyecto se podrá evaluar en función de diversos indicadores clave. En primer lugar, la participación de la audiencia será fundamental, manifestada a través del número de descargas, suscripciones y la interacción en redes sociales. Además, las reseñas y comentarios que recibamos reflejarán cómo se ha recibido nuestro contenido y la satisfacción de nuestra comunidad.
 
 Un aspecto clave del éxito será el impacto positivo que podamos generar en el bienestar emocional y mental de nuestra audiencia. Este efecto se podrá medir por la calidad y cantidad de testimonios de los oyentes sobre cómo los episodios han influido en sus vidas, así como por el cambio en el nivel de conciencia sobre temas de salud mental y emocional.
 
