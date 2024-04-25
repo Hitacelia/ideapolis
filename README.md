@@ -42,13 +42,7 @@ Utilizamos la licencia CCBY, ya que permite a otros compartir y adaptar nuestro 
 **Medios** (donde se tiene presencia): 
 
 
-* Tiktok
-  
-* Instagram
-  
-* YouTube
-  
-* Página web
+
 
 * Wix: Para la creación rápida de sitios web con capacidades extendidas mediante plugins: https://eevr98.wixsite.com/sin-tapujos
 
@@ -56,6 +50,13 @@ Utilizamos la licencia CCBY, ya que permite a otros compartir y adaptar nuestro 
 
 * Medium: Utilizada para la guía del caso de estudio del proyecto: https://medium.com/@e.evr98/nuestra-historia-cc1a3c267bcc
 
+Futuros medios:
+
+* Tiktok
+  
+* Instagram
+  
+* YouTube
 ----
 
 ### ¿Quiénes somos?
@@ -303,6 +304,13 @@ Canva: Para el diseño de contenido visual
 Trello: Para la gestión de proyectos y seguimiento del progreso de las tareas
 
 Microsoft Teams: Para la comunicación interna del equipo
+
+Flexclip: https://www.flexclip.com/es/
+
+Bing Copilot: https://www.microsoft.com/es-es/bing?form=MA13FV
+
+GoogleGemini: https://gemini.google.com/?hl=es-ES
+
 
 
 
